@@ -1,0 +1,1 @@
+const blog = `<h1>I am the blog page</h1>`
